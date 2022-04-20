@@ -163,6 +163,16 @@ display(example_df)
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC # A header
+# MAGIC 
+# MAGIC * Bullet
+# MAGIC * Points
+# MAGIC 
+# MAGIC Links/Embedded HTML: <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">Markdown - Wikipedia</a>
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC 
 # MAGIC 
 # MAGIC 
